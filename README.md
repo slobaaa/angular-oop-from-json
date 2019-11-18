@@ -1,4 +1,4 @@
-# AngularOopFromJson
+# Angular and Typescript OOP - Get and Fetch data from a local json
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
 
